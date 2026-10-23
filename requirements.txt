@@ -1,0 +1,9 @@
+Flask
+flask-mysqldb
+mysqlclient
+Flask-Mail
+google-generativeai
+Werkzeug
+python-dotenv
+gunicorn
+mysql-connector-python
